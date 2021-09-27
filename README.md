@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mengkheang just call me lancer
+- 👋 Hi, I’m @mk just call me lancer
 - 👀 I’m interested in coding!!
 - 🌱 I’m currently learning C# winforms WPF and UWPF etc;
 - 💞️ I'm currently a student major software engineering!!
