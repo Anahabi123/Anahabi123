@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mk just call me lancer
-- 👀 I’m interested in coding!!
-- 🌱 I’m currently learning C# winforms WPF and UWPF etc;
-- 💞️ I'm currently a student major software engineering!!
-- 📫 Gmail : spiderman0976500@gmail.com
+Hi i'm currently a student,
+Major : Software Engineering 
+
+You can reuse this code for your own project or test!!
 
 <!---
 Anahabi123/Anahabi123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
